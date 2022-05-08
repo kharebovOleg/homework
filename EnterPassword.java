@@ -17,5 +17,6 @@ public class EnterPassword {
         System.out.printf("%s, ваш новый пароль: %s", enterName, enterPassword);
 
         System.out.println("hello");
+        System.out.println("hello");
     }
 }

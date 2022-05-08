@@ -15,5 +15,7 @@ public class EnterPassword {
             } while (enterPassword.length() < 8 || enterPassword.length() > 15);
         }
         System.out.printf("%s, ваш новый пароль: %s", enterName, enterPassword);
+
+        System.out.println("hello");
     }
 }
